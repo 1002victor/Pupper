@@ -23,6 +23,7 @@ While the robot can walk out-of-the-box, some of the features you could add incl
 high level behaviors like playing fetch or following you around. You can also simulate the robot's motion in PyBullet
 before touching the real robot.
 
+
 To get started, check out the pages linked below on part sourcing and assembly. If you purchase the parts yourself, it'll run you 
 about $900. However, if you purchase a kit from either `MangDang <http://www.mangdang.net/Product?_l=en>`_ or 
 `Cypress Software <https://cypress-software-inc.myshopify.com/>`_ it'll likely cost you less. The two vendors sell 
